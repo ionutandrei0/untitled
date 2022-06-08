@@ -25,13 +25,13 @@ public class Main {
         int h =55;
         int i = 9;
         int j = 9;
-        System.out.println((55+9)%9);
+        System.out.println((h+i)%j);
 
         int k = 20;
         int l = -3;
         int m = 5;
         int n = 8;
-        System.out.println(k+l*5/8);
+        System.out.println(k+l*m/n);
 
         int o = 5;
         int p = 15;
